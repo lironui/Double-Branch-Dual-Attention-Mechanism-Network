@@ -7,7 +7,7 @@ Double-Branch Dual-Attention Mechanism Network ]().
 
 Feel free to contact me if you need any further information: lironui@whu.edu.cn
 
-Some of our code references the project 
+Some of our code references the projects
 * [Remote sensing image classification](https://github.com/stop68/Remote-Sensing-Image-Classification.git)
 * [Implementation of SSRN for Hyperspectral Image Classification](https://github.com/zilongzhong/SSRN.git)
 * [A Fast Dense Spectral-Spatial Convolution Network Framework for Hyperspectral Images Classification](https://github.com/shuguang-52/FDSSC.git) 
