@@ -1,6 +1,6 @@
 # Hyperspectral Image Classification
 
-**Apology:** The crucial and lastest implement about the frameworks file `network.py` is on the laboratorial computer, which is located in Wuhan University. Since 2019-nCoV is raging in Wuhan now, we can't get access to the laboratory now. It exists certain diffierences between the lastest file and the uploaded file. But we will updata the code immediately when we obtain the file.
+**Apology:** The crucial and lastest implements about the frameworks are on the laboratorial computer, which is located in Wuhan University. Since 2019-nCoV is raging in Wuhan now, we can't get access to the laboratory now. It exists certain diffierences between the lastest files and the uploaded files. But we will updata the code immediately when we could obtain the files.
 
 This repository implementates 6 frameworks for hyperspectral image classification based on PyTorch and sklearn.
 
