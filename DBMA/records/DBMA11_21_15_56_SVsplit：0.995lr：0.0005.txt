@@ -1,0 +1,15 @@
+OAs for each iteration are:[0.826129134563364]
+AAs for each iteration are:[0.8966169577511076]
+KAPPAs for each iteration are:[0.8082164635727428]
+
+mean_OA ± std_OA is: 0.826129134563364 ± 0.0
+mean_AA ± std_AA is: 0.8966169577511076 ± 0.0
+mean_KAPPA ± std_KAPPA is: 0.8082164635727428 ± 0.0
+
+Total average Training time is: 35.178022
+Total average Testing time is: 31.907263999999998
+
+Mean of all elements in confusion matrix: [1.         0.71715009 0.89194597 0.87484117 0.99777975 0.96528804
+ 0.92422263 0.97517058 0.99982401 0.90976551 0.56447298 0.9994302
+ 0.97943723 0.99616491 0.55172145 0.99865682]
+Standard deviation of all elements in confusion matrix: [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]

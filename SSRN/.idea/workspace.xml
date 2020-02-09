@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="924c4da6-7dff-4484-8ed9-48b2ff548114" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Mish" />
+  </component>
+  <component name="ProjectId" id="1S87siMkzuIdLWq6orAsIrNGMtD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ToolWindowDatabase.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DANet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../test/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="924c4da6-7dff-4484-8ed9-48b2ff548114" name="Default Changelist" comment="" />
+      <created>1570933577684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570933577684</updated>
+      <workItem from="1570933584477" duration="234000" />
+      <workItem from="1570933832337" duration="190000" />
+      <workItem from="1570934034844" duration="11875000" />
+      <workItem from="1571019498878" duration="808000" />
+      <workItem from="1571020321779" duration="16485000" />
+      <workItem from="1571104366801" duration="17865000" />
+      <workItem from="1571150544899" duration="314000" />
+      <workItem from="1571151161953" duration="224000" />
+      <workItem from="1571186738903" duration="3050000" />
+      <workItem from="1571202172230" duration="11159000" />
+      <workItem from="1571303654402" duration="4726000" />
+      <workItem from="1571360450432" duration="3131000" />
+      <workItem from="1571375544950" duration="32864000" />
+      <workItem from="1571810484511" duration="2170000" />
+      <workItem from="1571822226983" duration="370000" />
+      <workItem from="1572003248879" duration="9126000" />
+      <workItem from="1572320073690" duration="19000" />
+      <workItem from="1572320102722" duration="1479000" />
+      <workItem from="1572323543861" duration="1060000" />
+      <workItem from="1572524651932" duration="4418000" />
+      <workItem from="1572572645891" duration="3897000" />
+      <workItem from="1572588497785" duration="795000" />
+      <workItem from="1572590168094" duration="2178000" />
+      <workItem from="1572856954475" duration="278000" />
+      <workItem from="1572875452755" duration="3787000" />
+      <workItem from="1572918583561" duration="13957000" />
+      <workItem from="1572937344361" duration="15771000" />
+      <workItem from="1572965817721" duration="675000" />
+      <workItem from="1573005740214" duration="17642000" />
+      <workItem from="1573030025311" duration="17951000" />
+      <workItem from="1573087598290" duration="4573000" />
+      <workItem from="1573132915775" duration="3775000" />
+      <workItem from="1573137047362" duration="1519000" />
+      <workItem from="1573175451911" duration="975000" />
+      <workItem from="1573183588393" duration="5806000" />
+      <workItem from="1573209533197" duration="599000" />
+      <workItem from="1573219589621" duration="599000" />
+      <workItem from="1573261189708" duration="4529000" />
+      <workItem from="1573266852469" duration="10562000" />
+      <workItem from="1573286276552" duration="312000" />
+      <workItem from="1573649836452" duration="577000" />
+      <workItem from="1573650431535" duration="371000" />
+      <workItem from="1573981404180" duration="599000" />
+      <workItem from="1574029495384" duration="1075000" />
+      <workItem from="1574082195639" duration="2804000" />
+      <workItem from="1574127118426" duration="2117000" />
+      <workItem from="1574153031192" duration="599000" />
+      <workItem from="1574163047130" duration="1919000" />
+      <workItem from="1574233788981" duration="604000" />
+      <workItem from="1574297221981" duration="3546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DBDA_load$main.coverage" NAME="main Coverage Results" MODIFIED="1573090919567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SSRN$main.coverage" NAME="main Coverage Results" MODIFIED="1574327764239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DBDA$main.coverage" NAME="main Coverage Results" MODIFIED="1573198573703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DBDAnet$main.coverage" NAME="main Coverage Results" MODIFIED="1572935823373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
