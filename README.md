@@ -1,6 +1,6 @@
 # Hyperspectral Image Classification
 
-**Apology:** The implement about the netwrok file is on the laboratorial computer, which is locates in Wuhan University. Since 2019-nCoV is raging in Wuhan now, we can't get access to the laboratory now. But we will updata the code immediately when we obtain the file.
+**Apology:** The crucial implement about the netwrok file is on the laboratorial computer, which is located in Wuhan University. Since 2019-nCoV is raging in Wuhan now, we can't get access to the laboratory now. But we will updata the code immediately when we obtain the file.
 
 This repository implementates 6 frameworks for hyperspectral image classification based on PyTorch and sklearn.
 
