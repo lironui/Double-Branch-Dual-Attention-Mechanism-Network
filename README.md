@@ -1,5 +1,7 @@
 # Hyperspectral Image Classification
 
+**Apology:** The implement about the netwrok file is on the laboratorial computer, which is locates in Wuhan University. Since 2019-nCoV is raging in Wuhan now, we can't get access to the laboratory now. But we will updata the code immediately when we obtain the file.
+
 This repository implementates 6 frameworks for hyperspectral image classification based on PyTorch and sklearn.
 
 The detailed results can be seen in the [Classification of Hyperspectral Image Based on 
@@ -8,8 +10,8 @@ Double-Branch Dual-Attention Mechanism Network ]().
 Feel free to contact me if you need any further information: lironui@whu.edu.cn
 
 Some of our code references the projects
+* [Dual-Attention-Network](https://github.com/SH8899/Dual-Attention-Network.git)
 * [Remote sensing image classification](https://github.com/stop68/Remote-Sensing-Image-Classification.git)
-* [Implementation of SSRN for Hyperspectral Image Classification](https://github.com/zilongzhong/SSRN.git)
 * [A Fast Dense Spectral-Spatial Convolution Network Framework for Hyperspectral Images Classification](https://github.com/shuguang-52/FDSSC.git) 
 
 Requirements：
