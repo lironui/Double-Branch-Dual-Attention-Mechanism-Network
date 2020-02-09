@@ -39,5 +39,5 @@ Network:
 * [CDCNN](https://ieeexplore.ieee.org/document/7973178)
 * [SVM](https://ieeexplore.ieee.org/document/1323134/)
 
-![network](https://github.com/lironui/Double-Branch-Dual-Attention-Mechanism-Network/figure/figures/Figure 6. The structure of the DBDA network.png)  
+![network](https://github.com/lironui/Double-Branch-Dual-Attention-Mechanism-Network/figure/figures/Figure 6.The structure of the DBDA network.png)  
 Figure 6. The structure of our DBDA network.
