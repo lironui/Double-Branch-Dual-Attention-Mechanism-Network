@@ -24,7 +24,7 @@ sklearn >= 0.20.4
 
 Datasets:
 ------- 
-You can download the hyperspectral datasets in mat format at: [](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes), and move the files to `./datasets` folder.
+You can download the hyperspectral datasets in mat format at: [ ](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes), and move the files to `./datasets` folder.
 
 Usage:
 ------- 
