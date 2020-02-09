@@ -69,7 +69,7 @@ padded_data = np.lib.pad(whole_data, ((PATCH_LENGTH, PATCH_LENGTH), (PATCH_LENGT
                          'constant', constant_values=0)
 
 for index_iter in range(ITER):
-    net = network.DCCNN_network(BAND, CLASSES_NUM)
+    net = network.CDCNN_network(BAND, CLASSES_NUM)
     optimizer = optim.Adam(net.parameters(), lr=lr)  # , weight_decay=0.0001)
     time_1 = int(time.time())
     np.random.seed(seeds[index_iter])
