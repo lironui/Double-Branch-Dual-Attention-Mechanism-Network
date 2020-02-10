@@ -5,7 +5,7 @@
 This repository implementates 6 frameworks for hyperspectral image classification based on PyTorch and sklearn.
 
 The detailed results can be seen in the [Classification of Hyperspectral Image Based on 
-Double-Branch Dual-Attention Mechanism Network]().
+Double-Branch Dual-Attention Mechanism Network](https://www.mdpi.com/2072-4292/12/3/582).
 
 Feel free to contact me if you need any further information: lironui@whu.edu.cn
 
@@ -61,3 +61,6 @@ Figure 4. Classiﬁcation maps for the UP dataset using 0.5% training samples. (
 ![BS](https://github.com/lironui/Double-Branch-Dual-Attention-Mechanism-Network/blob/master/figures/Figure%2012.%20Classi%EF%AC%81cation%20maps%20for%20the%20BS%20dataset%20using%201.2%25%20training%20samples.png)
 Figure 5. Classiﬁcation maps for the BS dataset using 1.2% training samples. (a) False-color image. 
 (b) Ground-truth (GT). (c)–(h) The classiﬁcation maps with disparate algorithms. 
+
+If the code is help to you, please cite
+`Li, R.; Zheng, S.; Duan, C.; Yang, Y.; Wang, X. Classification of Hyperspectral Image Based on Double-Branch Dual-Attention Mechanism Network. Remote Sens. 2020, 12, 582.`
