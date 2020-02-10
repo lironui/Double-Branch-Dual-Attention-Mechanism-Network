@@ -5,7 +5,7 @@
 This repository implementates 6 frameworks for hyperspectral image classification based on PyTorch and sklearn.
 
 The detailed results can be seen in the [Classification of Hyperspectral Image Based on 
-Double-Branch Dual-Attention Mechanism Network ]().
+Double-Branch Dual-Attention Mechanism Network]().
 
 Feel free to contact me if you need any further information: lironui@whu.edu.cn
 
