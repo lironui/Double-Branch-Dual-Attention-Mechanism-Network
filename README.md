@@ -38,7 +38,7 @@ Usage:
 
 Network:
 ------- 
-* [DBDA]()
+* [DBDA](https://www.mdpi.com/2072-4292/12/3/582)
 * [DBMA](https://www.mdpi.com/2072-4292/11/11/1307/xml)
 * [FDSSC](https://www.mdpi.com/2072-4292/10/7/1068/htm)
 * [SSRN](https://ieeexplore.ieee.org/document/8061020)
