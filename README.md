@@ -1,7 +1,5 @@
 # Hyperspectral Image Classification
 
-**Apology:** The crucial and lastest implements about the frameworks are on the laboratorial computer, which is located in Wuhan University. Since 2019-nCoV is raging in Wuhan now, we can't get access to the laboratory now. It exists certain diffierences between the lastest files and the uploaded files. But we will updata the code immediately when we could obtain the files. Pray for Wuhan.
-
 This repository implementates 6 frameworks for hyperspectral image classification based on PyTorch and sklearn.
 
 The detailed results can be seen in the [Classification of Hyperspectral Image Based on 
