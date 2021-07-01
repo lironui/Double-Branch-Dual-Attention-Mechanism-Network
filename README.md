@@ -5,8 +5,6 @@ This repository implementates 6 frameworks for hyperspectral image classificatio
 The detailed results can be seen in the [Classification of Hyperspectral Image Based on 
 Double-Branch Dual-Attention Mechanism Network](https://www.mdpi.com/2072-4292/12/3/582).
 
-Feel free to contact me if you need any further information: lironui@163.com
-
 Some of our code references the projects
 * [Dual-Attention-Network](https://github.com/SH8899/Dual-Attention-Network.git)
 * [Remote sensing image classification](https://github.com/stop68/Remote-Sensing-Image-Classification.git)
