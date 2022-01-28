@@ -12,7 +12,7 @@ Some of our code references the projects
 * [Remote sensing image classification](https://github.com/stop68/Remote-Sensing-Image-Classification.git)
 * [A Fast Dense Spectral-Spatial Convolution Network Framework for Hyperspectral Images Classification](https://github.com/shuguang-52/FDSSC.git) 
 
-If our code is helpful to you, please cite
+If our code is helpful to you, please cite  
 `Li R, Zheng S, Duan C, et al. Classification of Hyperspectral Image Based on Double-Branch Dual-Attention Mechanism Network[J]. Remote Sensing, 2020, 12(3): 582.`
 
 
